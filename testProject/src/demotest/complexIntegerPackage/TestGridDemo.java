@@ -1,4 +1,4 @@
-package demotest;
+package demotest.complexIntegerPackage;
 
 public class TestGridDemo {
 
