@@ -1,4 +1,4 @@
-package demotest;
+package demotest.complexIntegerPackage;
 
 /**
  * Calculates the pressure in a system with with two sensors
@@ -10,7 +10,6 @@ public class PressureDemo {
     public static int calculatePressure(int s1, int s2, boolean emergStop) {
 
         return 1;
-
     }
 
 }
