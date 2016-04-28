@@ -8,7 +8,7 @@ public class TestGridDemo {
 
     public boolean reactorLevelTooHigh(int reactorLevel1, int reactorLevel2) {
 
-        if (((reactorLevel1 + reactorLevel2) / 2) > 50) {
+        if ((reactorLevel1 + reactorLevel2) > 105) {
             return true;
         } else {
             return false;
